@@ -1,16 +1,16 @@
-# Marta Pabierowska – Lista zadań – projekt (Tasks list – project).
+# Marta Pabierowska – Tasks list – project.
 
-![Tasks list]( https://github.com/Marta-Pabierowska/Lista-zada---projekt/blob/main/images/0.jpg?raw=true)
+![Tasks list](https://github.com/Marta-Pabierowska/Tasks-list--project/blob/main/images/0.jpg?raw=true)
 
 ## Demo
 
-https://marta-pabierowska.github.io/Lista-zada---projekt/
+https://marta-pabierowska.github.io/Tasks-list--project/
 
 ## Instruction
 
 1. To start the application enter your task in the blank field. 
 2. In the next step click the button „Dodaj zadanie” to add a task to the list. 
-3. Repeated that as many times as you needed. 
+3. Repeat that as many times as you need. 
 4. To mark the task as done click the green button next to the task and to remove the task from the list click the red bin.
 
 ## Description
