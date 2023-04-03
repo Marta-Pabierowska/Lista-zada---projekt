@@ -1,10 +1,10 @@
-# Marta Pabierowska – Lista zadań – projekt (Tasks list – project).
+# Marta Pabierowska – Tasks list – project.
 
-![Tasks list]( https://github.com/Marta-Pabierowska/Lista-zada---projekt/blob/main/images/0.jpg?raw=true)
+![Tasks list](https://github.com/Marta-Pabierowska/Tasks-list--project/blob/main/images/0.jpg?raw=true)
 
 ## Demo
 
-https://marta-pabierowska.github.io/Lista-zada---projekt/
+https://marta-pabierowska.github.io/Tasks-list--project/
 
 ## Instruction
 
