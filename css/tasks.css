@@ -17,17 +17,33 @@
     text-decoration: line-through;
 }
 
-.tasks__button--done {
-    background: hsl(120, 61%, 34%);
-    color: white;
+.tasks__button {
     width: 30px;
     height: 30px;
     border: none;
 }
 
+.tasks__button--toggleDone {
+    background: hsl(120, 61%, 34%);
+    color: white;
+}
+
+.tasks__button--toggleDone:hover {
+    background: hsl(120, 61%, 39%);
+}
+
+.tasks__button--toggleDone:active {
+    background: hsl(120, 61%, 44%);
+}
+
 .tasks__button--remove {
-    background: red;
-    width: 30px;
-    height: 30px;
-    border: none;
+    background: hsl(348, 83%, 47%);
+}
+
+.tasks__button--remove:hover {
+    background: hsl(348, 83%, 52%);
+}
+
+.tasks__button--remove:active {
+    background: hsl(348, 83%, 57%);
 }

@@ -6,29 +6,7 @@ html {
     box-sizing: inherit;
 }
 
-.container {
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: 'Lato', sans-serif;
-    background-color: rgb(235, 229, 229);
-    background-size: cover;
-    background-position: center;
-}
-
-.section {
-    margin: 10px 0;
-    background-color: white;
-    /* box-shadow: 0 0 5px #ddd; */
-}
-
-.section__header {
-    font-size: 20px;
-    padding: 20px;
-    margin: 0;
-    border-bottom: 1px solid #ddd;
-}
-
-.section__body {
-   padding: 20px; 
+.body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #eee;
 }
