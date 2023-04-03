@@ -38,6 +38,7 @@
 
 .tasks__button--remove {
     background: hsl(348, 83%, 47%);
+    color: white;
 }
 
 .tasks__button--remove:hover {
