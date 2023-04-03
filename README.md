@@ -10,7 +10,7 @@ https://marta-pabierowska.github.io/Lista-zada---projekt/
 
 1. To start the application enter your task in the blank field. 
 2. In the next step click the button „Dodaj zadanie” to add a task to the list. 
-3. Repeated that as many times as you needed. 
+3. Repeat that as many times as you need. 
 4. To mark the task as done click the green button next to the task and to remove the task from the list click the red bin.
 
 ## Description
