@@ -1,11 +1,4 @@
 {
-    const welcome = () => {
-        console.log("WELCOME!");
-    }
-
-    welcome();
-
-
     let tasks = [];
     let hideDoneTasks = false;
 
@@ -103,7 +96,7 @@
             buttonsElement.innerHTML = "";
             return;
         }
- 
+
         buttonsElement.innerHTML = `
           <button class="buttons__button js-toggleHideDoneTasks">
             ${hideDoneTasks ? "Pokaż" : "Ukryj"} ukończone
